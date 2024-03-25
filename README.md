@@ -1,0 +1,2 @@
+# autodonate-qiwi-api
+qiwi
